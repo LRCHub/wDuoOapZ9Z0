@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Levels",
+  "base_artist": "Avicii",
+  "createdAt": "2025-12-12T15:14:11.381343Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Celestial Levels",
+      "artist": "Machinedrum feat. Jesse Boykins III",
+      "has_synced": true,
+      "path": "select/01_Celestial_Levels_Machinedrum_feat._Jesse_Boykins_III.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Celestial Levels (feat. Jesse Boykins III)",
+      "artist": "Machinedrum",
+      "has_synced": true,
+      "path": "select/02_Celestial_Levels_(feat._Jesse_Boykins_III)_Machinedrum.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Levels (Skrillex Remix)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/03_Levels_(Skrillex_Remix)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Levels Remix - Avicii",
+      "artist": "Skrillex",
+      "has_synced": true,
+      "path": "select/04_Levels_Remix_-_Avicii_Skrillex.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "32 Levels",
+      "artist": "Clams Casino feat. Lil B & Joe Newman",
+      "has_synced": true,
+      "path": "select/05_32_Levels_Clams_Casino_feat._Lil_B_&_Joe_Newman.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "32 Levels (feat. Lil B & Joe Newman)",
+      "artist": "Clams Casino",
+      "has_synced": true,
+      "path": "select/06_32_Levels_(feat._Lil_B_&_Joe_Newman)_Clams_Casino.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Checkin' Levels",
+      "artist": "P.O.D.",
+      "has_synced": true,
+      "path": "select/07_Checkin'_Levels_P.O.D..lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Moonbeam Levels - 2019 Remaster",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/08_Moonbeam_Levels_-_2019_Remaster_Prince.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Moonbeam Levels (2019 Remaster)",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/09_Moonbeam_Levels_(2019_Remaster)_Prince.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Levels (Radio Edit)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/10_Levels_(Radio_Edit)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Upper Levels",
+      "artist": "Angra",
+      "has_synced": true,
+      "path": "select/11_Upper_Levels_Angra.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Levels",
+      "artist": "Angemi feat. Shiah Maisel",
+      "has_synced": true,
+      "path": "select/12_Levels_Angemi_feat._Shiah_Maisel.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Levels",
+      "artist": "Angemi",
+      "has_synced": true,
+      "path": "select/13_Levels_Angemi.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Levels - Radio Edit",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/14_Levels_-_Radio_Edit_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Moonbeam Levels",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/15_Moonbeam_Levels_Prince.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Levels",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/16_Levels_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Levels (feat. Sunny Malton)",
+      "artist": "Sidhu Moose Wala feat. Sunny Malton & The Kidd",
+      "has_synced": true,
+      "path": "select/17_Levels_(feat._Sunny_Malton)_Sidhu_Moose_Wala_feat._Sunny_Malton_&_The_Kidd.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Levels",
+      "artist": "Sidhu Moose Wala & Sunny Malton",
+      "has_synced": true,
+      "path": "select/18_Levels_Sidhu_Moose_Wala_&_Sunny_Malton.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Levels",
+      "artist": "Avicii",
+      "has_synced": false,
+      "path": "select/pl_01_Levels_Avicii.txt"
+    }
+  ]
+}
